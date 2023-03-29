@@ -8,7 +8,7 @@ Project## Portfolio
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Visualizing COVID 19](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,8 +19,8 @@ Project## Portfolio
 
 ### Category Name 2
 
-- [Project 1 Title](https://app.datacamp.com/workspace/w/0b1b9534-f77c-43f6-9323-5ac560341302/edit)
-- [Project 2 Title](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
+- [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/0b1b9534-f77c-43f6-9323-5ac560341302/edit)
+- [Visualizing COVID-19](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
