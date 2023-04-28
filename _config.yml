@@ -15,5 +15,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with you t
   <br><br>
   <a href="https://www.linkedin.com/in/etini-akpayang-754aa4101">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
