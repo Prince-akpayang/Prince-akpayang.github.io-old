@@ -1,7 +1,7 @@
-#**Etini Akpayang Portfolio**
+# **Etini Akpayang Portfolio**
 
 
-This repository contains the code and files for Etini Akpayang's portfolio, showcasing their expertise in statistical methodologies and techniques.
+## **This repository contains the code and files for Etini Akpayang's portfolio, showcasing their expertise in statistical methodologies and techniques.**
 
 
 
