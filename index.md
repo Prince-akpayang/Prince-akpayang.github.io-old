@@ -2,14 +2,14 @@ Project## Portfolio
 
 ---
 
-### Category Name 1 
+### Projects. 
 
 [Dr. Semmelweis and the Discovery of Handwashing](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot_2023_0429_133318.png?raw=true"/>
 
 ---
 [Visualizing COVID 19](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot_2023_0429_133432.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,7 +17,7 @@ Project## Portfolio
 
 ---
 
-### Category Name 2
+### Project links 
 
 - [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/0b1b9534-f77c-43f6-9323-5ac560341302/edit)
 - [Visualizing COVID-19](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
