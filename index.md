@@ -1,4 +1,4 @@
-Project## Portfolio
+## Project Portfolio
 
 ---
 
@@ -22,7 +22,7 @@ Visualizing COVID 19
 - [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/0b1b9534-f77c-43f6-9323-5ac560341302/edit)
 - [Visualizing COVID-19](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
 
-
+- [masters thesis](/pdf/Thesis.pdf)
 
 
 ---
