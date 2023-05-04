@@ -13,7 +13,7 @@ Visualizing COVID 19
 
 ---
 Masters Thesis 2021
-<img src="images/Project_image.png?raw=true"/>
+<img src="images/Project_image.PNG?raw=true"/>
 
 
 ---
