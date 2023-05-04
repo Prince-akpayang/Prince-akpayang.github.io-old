@@ -27,7 +27,7 @@ Statistical report comparing three Non-parametric Bayesian techniques
 - [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/0b1b9534-f77c-43f6-9323-5ac560341302/edit)
 - [Visualizing COVID-19](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
 - [Masters Thesis](/pdf/Thesis.pdf)
-
+- [Statistical Report](https://github.com/Prince-akpayang/Comparison-of-three-common-nonparametric-Bayes-techniques-)
 ---
 
 
