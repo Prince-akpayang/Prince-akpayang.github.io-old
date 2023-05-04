@@ -2,7 +2,7 @@
 
 ---
 
-### Projects. 
+ 
 
 Dr. Semmelweis and the Discovery of Handwashing
 <img src="images/Screenshot_2023_0429_133318.png?raw=true"/>
