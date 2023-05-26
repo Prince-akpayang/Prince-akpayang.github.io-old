@@ -1,48 +1,12 @@
 # _config.yml
 
-name: Your Name
-title: Data Analyst | Statistician
-email: your@email.com
-description: Passionate about extracting insights from data and driving data-informed decision-making.
+title: ETINI AKPAYANG
+logo: "/images/Screenshot_20230329_004834.jpg?raw=true"
+description: > 
+  Welcome to my GitHub portfolio! As a highly skilled statistician with a Bachelor's degree in Statistics from the University of Uyo and a Master's degree in Statistics from Ahmadu Bello University, I bring a wealth of knowledge and expertise to the world of data analysis. With a passion for unraveling the stories hidden within data, I have dedicated my career to mastering statistical methodologies and cutting-edge tools. Proficient in packages like R, SPSS, and Excel, I have honed my skills in data manipulation, visualization, and advanced statistical analysis. I believe in the power of data-driven insights to drive informed decision-making and foster growth.
 
-# Social media links
-social:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/your-linkedin-profile
-  - title: GitHub
-    url: https://github.com/your-github-profile
-  - title: Twitter
-    url: https://twitter.com/your-twitter-profile
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0
 
-# Skills
-skills:
-  - title: Statistical Analysis
-  - title: Data Visualization
-  - title: Machine Learning
-  - title: R Programming
-  - title: SPSS
-  - title: Excel
-
-# Education
-education:
-  - degree: Bachelor of Science in Statistics
-    university: University of Uyo
-    year: 20XX
-  - degree: Master of Science in Statistics
-    university: Ahmadu Bello University
-    year: 20XX
-
-# Projects
-projects:
-  - title: Market Research Analysis
-    description: Conducted a comprehensive market research analysis for a leading company, providing insights into consumer behavior and market trends.
-    github: https://github.com/your-github-profile/market-research-analysis
-
-  - title: Predictive Modeling
-    description: Developed a predictive model using machine learning algorithms to forecast customer churn in the telecommunications industry.
-    github: https://github.com/your-github-profile/predictive-modeling
-
-  # Add more projects as desired
-
-# Footer text
-footer_text: "© 2023 Etini Akpayang. All rights reserved."
+colors:
+  crimson: '#900C3F'
