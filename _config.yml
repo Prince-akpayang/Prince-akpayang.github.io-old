@@ -1,16 +1,48 @@
-title: ETINI AKPAYANG # your name (or website title) here
-logo: "/images/Screenshot_20230329_004834.jpg?raw=true"
- # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
- I am a statistics graduate with a Bachelor's degree from the University of Uyo and a Master's degree in statistics from Ahmadu Bello University Zaria. My primary interests lie in Bayesian statistics and machine learning, where I have honed my skills in utilizing these methodologies to solve complex statistical problems. Throughout my academic journey, I have kin interest in research on the impact of covariance structures on estimates, which has contributed significantly to the advancement of statistical models and methodologies. I am proficient in statistical software tools such as R, SPSS, Minitab, Excel and SQL, and possess the ability to apply statistical theories and techniques to real-world problems
-  <br><br>
-  My interests is in understanding and applications of statistics, whether through lecturing or practicing
-  <br><br>
-  <a href="https://www.linkedin.com/in/etini-akpayang-754aa4101/">View my LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# _config.yml
 
-colors:
-  crimson: '#900C3F'
+name: Your Name
+title: Data Analyst | Statistician
+email: your@email.com
+description: Passionate about extracting insights from data and driving data-informed decision-making.
+
+# Social media links
+social:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/your-linkedin-profile
+  - title: GitHub
+    url: https://github.com/your-github-profile
+  - title: Twitter
+    url: https://twitter.com/your-twitter-profile
+
+# Skills
+skills:
+  - title: Statistical Analysis
+  - title: Data Visualization
+  - title: Machine Learning
+  - title: R Programming
+  - title: SPSS
+  - title: Excel
+
+# Education
+education:
+  - degree: Bachelor of Science in Statistics
+    university: University of Uyo
+    year: 20XX
+  - degree: Master of Science in Statistics
+    university: Ahmadu Bello University
+    year: 20XX
+
+# Projects
+projects:
+  - title: Market Research Analysis
+    description: Conducted a comprehensive market research analysis for a leading company, providing insights into consumer behavior and market trends.
+    github: https://github.com/your-github-profile/market-research-analysis
+
+  - title: Predictive Modeling
+    description: Developed a predictive model using machine learning algorithms to forecast customer churn in the telecommunications industry.
+    github: https://github.com/your-github-profile/predictive-modeling
+
+  # Add more projects as desired
+
+# Footer text
+footer_text: "© 20XX Your Name. All rights reserved."
