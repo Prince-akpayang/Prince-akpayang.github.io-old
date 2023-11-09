@@ -6,7 +6,7 @@ description: >
   <body>
   <h4, align="center"> to my GitHub portfolio!</h4>
   <h4, align="justify">
-  As a highly skilled statistician with a Bachelor's degree in Statistics 
+ <p> As a highly skilled statistician with a Bachelor's degree in Statistics 
   from the University of Uyo and a Master's degree in Statistics from 
   Ahmadu Bello University, I bring a wealth of knowledge and expertise to
   the world of data analysis. With a passion for unraveling the stories 
@@ -15,6 +15,7 @@ description: >
   and Excel, I have honed my skills in data manipulation, visualization, and
   advanced statistical analysis. I believe in the power of data-driven insights
   to drive informed decision-making and foster growth.
+</p>
 </h5>
 </body>
 
