@@ -2,24 +2,30 @@
 
 ---
 Dr. Semmelweis and the Discovery of Handwashing
+
 <img src="images/Screenshot_2023_0429_133318.png?raw=true"/>
 
 ---
 Visualizing COVID 19
+
 <img src="images/Screenshot_2023_0429_133432.png?raw=true"/>
 
 ---
 Masters Thesis 2021
+
 <img src="images/Project_image.PNG?raw=true"/>
 
 ---
 Statistical report comparing three Non-parametric Bayesian techniques
+
 <img src="images/statReport.png?raw=true"/>
 
 ---
 Learner Performance Analytics Dashboard
+
 <img src="images/Display image.PNG?raw=true"/>
 
+---
 
 
 ---
