@@ -26,6 +26,11 @@ Learner Performance Analytics Dashboard
 <img src="images/Display image.PNG?raw=true"/>
 
 ---
+Whatsapp Chat Analysis
+
+<img src="images/whatsanals.PNG?raw=true"/>
+
+---
 
 
 ---
@@ -37,6 +42,7 @@ Learner Performance Analytics Dashboard
 - [Masters Thesis](/pdf/Thesis.pdf)
 - [Statistical Report](https://github.com/Prince-akpayang/Comparison-of-three-common-nonparametric-Bayes-techniques-)
 - [Learner Performance Analytics Dashboard](https://sloneo-etini-akpayang.shinyapps.io/TFN_FELLOWS_STATPAD/) ([scripts](https://github.com/Prince-akpayang/statpad/edit/main/README.md))
+- [Whatsapp Chat Analyzer app](https://sloneo-etini-akpayang.shinyapps.io/Whatapp_Chat_analyzer/), [sample url](https://posit.cloud/content/8657502)
 
 ---
 
