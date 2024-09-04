@@ -18,7 +18,7 @@ Statistical report comparing three Non-parametric Bayesian techniques
 
 ---
 Learner Performance Analytics Dashboard
-<img src="images/Display_image.PNG?raw=true"/>
+<img src="images/Display image.PNG?raw=true"/>
 
 
 
