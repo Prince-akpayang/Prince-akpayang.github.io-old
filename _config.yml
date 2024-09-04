@@ -1,5 +1,3 @@
-# _config.yml
-
 title: "ETINI AKPAYANG"
 logo: "/images/Screenshot_20230329_004834.jpg?raw=true"
 description: > 
@@ -12,11 +10,11 @@ description: >
   and foster growth.
 
 linkedin: "https://www.linkedin.com/in/etini-akpayang-754aa4101"
-Email: [princeakpayang@gmail.com](mailto:princeakpayang@gmail.com)
-
+email: [princeakpayang@gmail.com](mailto:princeakpayang@gmail.com)
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0
 
 colors:
   crimson: '#900C3F'
+
