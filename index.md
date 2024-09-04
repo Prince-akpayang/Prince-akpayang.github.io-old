@@ -36,7 +36,7 @@ Learner Performance Analytics Dashboard
 - [Visualizing COVID-19](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
 - [Masters Thesis](/pdf/Thesis.pdf)
 - [Statistical Report](https://github.com/Prince-akpayang/Comparison-of-three-common-nonparametric-Bayes-techniques-)
-- [Learner Performance Analytics Dashboard](https://sloneo-etini-akpayang.shinyapps.io/TFN_FELLOWS_STATPAD/)
+- [Learner Performance Analytics Dashboard](https://sloneo-etini-akpayang.shinyapps.io/TFN_FELLOWS_STATPAD/) ([scripts](https://github.com/Prince-akpayang/statpad/edit/main/README.md))
 
 ---
 
