@@ -17,7 +17,9 @@ Statistical report comparing three Non-parametric Bayesian techniques
 <img src="images/statReport.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Learner Performance Analytics Dashboard
+<img src="images/Display_image.PNG?raw=true"/>
+
 
 
 ---
@@ -28,6 +30,8 @@ Statistical report comparing three Non-parametric Bayesian techniques
 - [Visualizing COVID-19](https://app.datacamp.com/workspace/w/0434d327-6d31-43ac-b422-bf154797b0b1/edit)
 - [Masters Thesis](/pdf/Thesis.pdf)
 - [Statistical Report](https://github.com/Prince-akpayang/Comparison-of-three-common-nonparametric-Bayes-techniques-)
+- [Learner Performance Analytics Dashboard](https://sloneo-etini-akpayang.shinyapps.io/TFN_FELLOWS_STATPAD/)
+
 ---
 
 
