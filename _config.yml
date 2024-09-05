@@ -1,19 +1,18 @@
+---
 title: Etini Akpayang - Statistician & Data Analyst
 logo: /images/Photoroom-20240806_103739.png
 description: >
-  Welcome to my GitHub portfolio! I'm a highly skilled statistician with a passion for data analysis.
+  Welcome to my GitHub portfolio! I'm a highly skilled statistician
+  with a passion for data analysis.
 
   With a Bachelor's degree in Statistics from the University of Uyo and a Master's degree in Statistics from Ahmadu Bello University, I bring a wealth of knowledge and expertise to the world of data analysis.
 
   My skills include:
 
-  * Data manipulation and visualization
-  * Advanced statistical analysis
-  * Proficient in packages like R, SPSS, Excel, and Python
-
-linkedin: https://www.linkedin.com/in/etini-akpayang-754aa4101
-email: mailto:princeakpayang@gmail.com
+  * Data manipulation and visualization * Advanced statistical analysis * Proficient in packages like R, SPSS, Excel, and Python
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0
 colors:
   crimson: "#900C3F"
+---
+You can find me on [LinkedIn](https://www.linkedin.com/in/etini-akpayang-754aa4101) or email me at [princeakpayang@gmail.com](mailto:princeakpayang@gmail.com).
